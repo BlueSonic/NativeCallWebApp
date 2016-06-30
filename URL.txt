@@ -1,0 +1,5 @@
+Xamarin.FormsのWebアプリでJavascriptからC#を呼び出す方法
+http://sonic.blue/it/801
+
+This is MySite sample code files.
+Use Xamarin Studio.
